@@ -1,7 +1,7 @@
 function fibonacci(num) {
 // your code here
 
-if(num===0)return 0;
+
 if(nu===1)return 0;
 if(num===2)return 1;
  let a=0;
